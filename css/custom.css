@@ -1,0 +1,70 @@
+.bug{
+	height:10em;
+}
+
+.process-3 li .process__number span{
+	font-size: 1em;
+}
+
+ul.para-list{
+	display:block!important;
+	list-style: disc;
+	margin-left: 3em;
+}
+
+ul.para-list li{
+	margin-bottom:0.25em;
+}
+
+.pitchline{
+	position:absolute;
+	bottom:1em;
+}
+
+.height-85 {
+  height: 87.5vh;
+}
+
+.height--150{
+	height:220vh;
+}
+
+h3.tagline{
+	margin-top:1em;
+}
+
+.is-hidden{
+	display:none;
+}
+
+.bar--line{
+	border-bottom:1px solid rgba(0,0,0,0.1);
+}
+
+body.location .map-container,
+body.hub .map-container {
+	min-height: 600px;
+}
+
+.footer_tiny{
+	font-size: 0.7em;
+	line-height:0.75em;
+}
+
+.bar .logo {
+  max-height: 2.5em;
+}
+
+.bg--turq{
+	background: #067187;
+}
+
+.bg--primary .boxed:not(.imagebg) li span,
+.bg--primary .boxed:not(.imagebg) .type--fine-print{
+    color: #252525;
+}
+
+.frame--harmony{
+	height:210vh;
+}
+
